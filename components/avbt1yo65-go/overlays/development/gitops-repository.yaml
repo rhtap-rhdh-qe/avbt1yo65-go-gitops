@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: avbt1yo65-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/avbt1yo65-go-gitops
